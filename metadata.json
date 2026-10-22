@@ -1,0 +1,6 @@
+{
+  "name": "RAJ AI - Futuristic Voice Assistant for Windows",
+  "description": "Bilingual Hindi & English cybernetic voice assistant powered by Gemini AI, featuring speech synthesis, live audio visualizer, website launcher, and safe local Windows Python helper bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
